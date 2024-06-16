@@ -56,7 +56,9 @@ button:hover {
 .del:hover, .reset:hover{
     background-color: #4A4E73;
 }
-
+.equal:hover{
+    background-color: #d62e1b;
+}
 .reset,.equal{
     grid-column: span 2;
 }
